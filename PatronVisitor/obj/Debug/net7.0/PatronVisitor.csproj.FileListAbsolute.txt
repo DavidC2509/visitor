@@ -1,0 +1,15 @@
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\bin\Debug\net7.0\PatronVisitor.exe
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\bin\Debug\net7.0\PatronVisitor.deps.json
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\bin\Debug\net7.0\PatronVisitor.runtimeconfig.json
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\bin\Debug\net7.0\PatronVisitor.dll
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\bin\Debug\net7.0\PatronVisitor.pdb
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.csproj.AssemblyReference.cache
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.AssemblyInfoInputs.cache
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.AssemblyInfo.cs
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.csproj.CoreCompileInputs.cache
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.dll
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\refint\PatronVisitor.dll
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.pdb
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\PatronVisitor.genruntimeconfig.cache
+D:\david\Taller\Visitor\PatronVisitor\PatronVisitor\obj\Debug\net7.0\ref\PatronVisitor.dll
